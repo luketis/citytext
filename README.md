@@ -24,4 +24,6 @@ pip install torch==1.13.1+cu117 torchvision==0.14.1+cu117 torchaudio==0.13.1 --e
 - Analisys: run analysis.ipynb
 
 # Citing
-TODO 
+  Please cite:
+
+  DIAS, L. C. *Detection, Recognition and Topic Semantic Matching of Street Level City Text For Urban Analysis*. 2023. 80f. Thesis - Instituto de Matemática e Estatística, Universidade de São Paulo, São Paulo, 2023.
